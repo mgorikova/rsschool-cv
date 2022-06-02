@@ -36,7 +36,6 @@ Recent graduate, with solid background in mathematics and problem-solving. Fluen
 
 - Coursera, Applied Data Science with Python Specialization
 
-
 **Project**
 https://mgorikova.github.io/rsschool-cv/cv
 
